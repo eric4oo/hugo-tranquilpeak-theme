@@ -14,3 +14,5 @@ metaAlignment: center
 
 ---
 Test text
+
+![](/uploads/isospritebr.png)
