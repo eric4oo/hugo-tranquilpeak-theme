@@ -1,24 +1,17 @@
 ---
-title: "Welcome to Tranquilpeak 0.5.0-BETA"
-date: 2015-06-15
+title: Pygame update
+date: 2021-08-25T04:00:00+00:00
 categories:
-- tranquilpeak
-- releases
+- pygame
 tags:
-- hexo theme
-- responsive
-- gravatar
-- disqus
-- google analytics
-keywords:
-- disqus
-- google
-- gravatar
+- pixel art
+keywords: []
 autoThumbnailImage: false
-thumbnailImagePosition: "top"
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+thumbnailImagePosition: top
+thumbnailImage: "/uploads/isospritebr.gif"
+coverImage: "/uploads/isospritebr.gif"
 metaAlignment: center
+
 ---
 Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
 <!--more-->
@@ -172,5 +165,3 @@ All kinds of contributions (enhancements, features, documentation & code improve
 ## License
 
 hugo-tranquilpeak-theme is released under the terms of the [GNU General Public License v3.0](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/LICENSE).
-
-
