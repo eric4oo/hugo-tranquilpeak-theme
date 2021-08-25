@@ -1,7 +1,7 @@
 ---
-title: "Hidden pagination showcase"
+title: Hidden pagination showcase
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+thumbnailImage: "//d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg"
 date: 2014-08-15
 categories:
 - tranquilpeak
@@ -9,8 +9,9 @@ categories:
 tags:
 - pagination
 showPagination: false
----
+draft: true
 
+---
 This post is used to show how a site looks if the pagination is hidden.
 <!--more-->
 

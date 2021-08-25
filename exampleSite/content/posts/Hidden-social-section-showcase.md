@@ -1,7 +1,7 @@
 ---
-title: "Hidden social section showcase"
+title: Hidden social section showcase
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+thumbnailImage: "//d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg"
 date: 2014-08-17
 categories:
 - tranquilpeak
@@ -9,8 +9,8 @@ categories:
 tags:
 - social
 showSocial: false
----
 
+---
 This post is used to show how a site looks if the social section is hidden.
 <!--more-->
 

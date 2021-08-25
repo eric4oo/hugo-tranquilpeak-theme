@@ -1,7 +1,7 @@
 ---
-title: "Hidden tag section showcase"
+title: Hidden tag section showcase
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+thumbnailImage: "//d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg"
 date: 2014-08-16
 categories:
 - tranquilpeak
@@ -9,8 +9,8 @@ categories:
 tags:
 - tags
 showTags: false
----
 
+---
 This post is used to show how a site looks if the tag section is hidden.
 <!--more-->
 
