@@ -1,17 +1,17 @@
 ---
-title: "highlighted code showcase"
+title: highlighted code showcase
 date: 2015-03-23
 categories:
-  - tranquilpeak
-  - features
+- tranquilpeak
+- features
 tags:
-  - highlight code
-  - github theme
-  - test
+- highlight code
+- github theme
+- test
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/highlighted-code-showcase/peak-140.jpg
----
+thumbnailImage: "//d1u9biwaxjngwg.cloudfront.net/highlighted-code-showcase/peak-140.jpg"
 
+---
 Tranquilpeak Hugo theme have its own theme to highlight source code. It's based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
 <!--more-->
 
