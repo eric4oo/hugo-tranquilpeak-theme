@@ -1,5 +1,5 @@
 ---
-title: Pygame update
+title: Game update
 date: 2021-08-25T04:00:00+00:00
 categories:
 - pygame
@@ -13,6 +13,6 @@ coverImage: "/uploads/isospritebr.gif"
 metaAlignment: center
 
 ---
-Test text
+Walking animation progression for a sprite.
 
 ![](/uploads/isospritebr.png)
