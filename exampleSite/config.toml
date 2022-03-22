@@ -11,7 +11,7 @@ bio = "Mechanical Engineer from Windsor, Ontario"
 job = "Mechanical Engineer"
 location = "Canada"
 name = "Eric Hou"
-picture = "me.jpg"
+picture = "https://github.com/eric4oo/hugo-tranquilpeak-theme/blob/master/exampleSite/static/uploads/me.jpg"
 [markup.tableOfContents]
 endLevel = 3
 ordered = false
