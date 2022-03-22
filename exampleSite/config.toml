@@ -11,7 +11,7 @@ bio = "Mechanical Engineer from Windsor, Ontario"
 job = "Mechanical Engineer"
 location = "Canada"
 name = "Eric Hou"
-picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+picture = "static/uploads/me.jpg"
 [markup.tableOfContents]
 endLevel = 3
 ordered = false
