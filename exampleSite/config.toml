@@ -7,7 +7,7 @@ paginate = 7
 theme = "hugo-tranquilpeak-theme"
 title = "EHP"
 [author]
-bio = "Welcome to my project page!"
+bio = "Mechanical Engineer from Windsor, Ontario"
 job = "Mechanical Engineer"
 location = "Canada"
 name = "Eric Hou"
