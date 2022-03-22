@@ -23,23 +23,11 @@ pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"
 url = "https://github.com/eric4oo"
 weight = 1
 [[menu.main]]
-identifier = "about"
-name = "About"
-pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-url = "/#about"
-weight = 5
-[[menu.main]]
-identifier = "archives"
-name = "Archives"
-pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
-url = "/archives"
-weight = 4
-[[menu.main]]
-identifier = "tags"
-name = "Tags"
-pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
-url = "/tags"
-weight = 3
+identifier = "home"
+name = "Home"
+pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+url = "/"
+weight = 1
 [[menu.main]]
 identifier = "categories"
 name = "Categories"
@@ -47,11 +35,23 @@ pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true
 url = "/categories"
 weight = 2
 [[menu.main]]
-identifier = "home"
-name = "Home"
-pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-url = "/"
-weight = 1
+identifier = "tags"
+name = "Tags"
+pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
+url = "/tags"
+weight = 3
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
+url = "/archives"
+weight = 4
+[[menu.main]]
+identifier = "about"
+name = "About"
+pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+url = "/#about"
+weight = 5
 [[menu.misc]]
 identifier = "rss"
 name = "RSS"
