@@ -11,7 +11,7 @@ bio = "Mechanical Engineer from Windsor, Ontario"
 job = "Mechanical Engineer"
 location = "Canada"
 name = "Eric Hou"
-picture = "static/uploads/me.jpg"
+picture = "me.jpg"
 [markup.tableOfContents]
 endLevel = 3
 ordered = false
